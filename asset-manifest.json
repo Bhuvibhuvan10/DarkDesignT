@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/DarkDesignT/static/css/main.bd4327d8.css",
+    "main.js": "/DarkDesignT/static/js/main.a3e91234.js",
+    "static/media/tracker.jpg": "/DarkDesignT/static/media/tracker.1d9d354b87f466af0f04.jpg",
+    "static/media/transitor.jpg": "/DarkDesignT/static/media/transitor.78b64ddff670e884f6fa.jpg",
+    "static/media/11.jpg": "/DarkDesignT/static/media/11.e0021c7e86a69d28bb2e.jpg",
+    "static/media/turesel-1.png": "/DarkDesignT/static/media/turesel-1.764df2e3645987ee9aef.png",
+    "static/media/transformer.jpg": "/DarkDesignT/static/media/transformer.180cc7ca6a041e107e19.jpg",
+    "static/media/solarRenewable.jpg": "/DarkDesignT/static/media/solarRenewable.639de9f0df19cd7070f7.jpg",
+    "static/media/solarIndus.jpg": "/DarkDesignT/static/media/solarIndus.f86823a88dce8a1d6894.jpg",
+    "static/media/logo.png": "/DarkDesignT/static/media/logo.c8a591606dca308d0fa6.png",
+    "static/media/solarpanel.jpg": "/DarkDesignT/static/media/solarpanel.a200de35d8f644a69a94.jpg",
+    "static/media/Pic2.jpg": "/DarkDesignT/static/media/Pic2.28c93e7db746e846d471.jpg",
+    "static/media/Pic1.webp": "/DarkDesignT/static/media/Pic1.70ebb5bb10ea6fcf05de.webp",
+    "static/media/Pic3.jpg": "/DarkDesignT/static/media/Pic3.158f0ab5febb5be4db27.jpg",
+    "static/media/inverter.jpg": "/DarkDesignT/static/media/inverter.aab319418ff6f56378f7.jpg",
+    "static/media/solarhome.jpg": "/DarkDesignT/static/media/solarhome.6b8b2af97d8acdc64c73.jpg",
+    "index.html": "/DarkDesignT/index.html",
+    "main.bd4327d8.css.map": "/DarkDesignT/static/css/main.bd4327d8.css.map",
+    "main.a3e91234.js.map": "/DarkDesignT/static/js/main.a3e91234.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd4327d8.css",
+    "static/js/main.a3e91234.js"
+  ]
+}
